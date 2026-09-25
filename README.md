@@ -79,13 +79,13 @@
 
 ### 结果
 - **一万次调用结果**
-  ![Markdown](/docs/images/Weixin Image_20260926013242_47_144.png)
+  ![Markdown](/docs/images/1w.png)
 
 - **十万次调用结果**
-  ![Markdown](/docs/images/Weixin Image_20260926013303_48_144.png)
+  ![Markdown](/docs/images/10w.png)
 
 - **一百万次调用结果**
-  ![Markdown](/docs/images/Weixin Image_20260926013315_49_144.png)
+  ![Markdown](/docs/images/100w.png)
 
 
 
